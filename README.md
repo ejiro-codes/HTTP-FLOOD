@@ -20,7 +20,7 @@
 
   - `uvicorn web:app --host 0.0.0.0 --port {port_number}`
 
-- Navigate over to the static url: `127.0.0.1:{port_number}/static`
+- Navigate over to the static url: `http://127.0.0.1:{port_number}/static`
 
 ## DDOS Script
 
